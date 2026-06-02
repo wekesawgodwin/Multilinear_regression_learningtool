@@ -21,7 +21,7 @@ Every analysis includes plain‑language summaries and visualizations so you can
 
 ---
 
-## 🚀 Features
+## 🚀 Features 
 
 - **Upload multiple file types**: CSV, Excel (`.xlsx`, `.xls`), or ZIP archives (containing one or more data files).
 - **Interactive variable selection** – choose your target (Y) and predictors (X).
